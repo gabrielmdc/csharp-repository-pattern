@@ -1,0 +1,8 @@
+{
+  "sdk": {
+    "version": "2.1.4"
+  },
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=localhost;Initial Catalog=db_mandatory_exercise;User Id=SA;Password=My_Password"
+  }
+}
